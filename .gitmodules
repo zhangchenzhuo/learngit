@@ -1,0 +1,3 @@
+[submodule "gitsub"]
+	path = gitsub
+	url = git@github.com:zhangchenzhuo/gitskills.git
